@@ -10,6 +10,7 @@
 
 [Our Demo Video](https://drive.google.com/file/d/1OhOKpmoZjLmMNv9TQEaSWmQUG_BiMjt1/view?usp=sharing)
 
+[Demo Video to show the resposiveness](https://drive.google.com/file/d/1EAG7WR5y8eRtrC15jrxwZE6nb4Fhy_6z/view?usp=sharing)
 
 
 ---
